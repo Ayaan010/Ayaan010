@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ayaan Ur Rehman</h1>
-<h3 align="center">Just a curious developer crafting cool stuff with code 🚀 | Frontend • Flutter • Firebase</h3>
+<h3 align="center">Just a curious developer crafting cool stuff with code 🚀 | Frontend • React • Flutter • Firebase</h3>
 
 - 🔭 I’m currently working on [Campus Cart](https://github.com/Ayaan010/CampusCart-App)
 
